@@ -1,0 +1,7 @@
+# Site settings
+title: Techstarter
+description: "Get started with your tech idea!"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
